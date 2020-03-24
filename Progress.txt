@@ -1,0 +1,25 @@
+Belajar :
+
+1). Konfigurasi Template Admin LTE ( Boostrap & img di kasih BASE_URL )
+2). Menghungkan ke Folder assets ( CSS/Boostrap, JS, IMG, dll..)
+3). Menerapkan coding Templeting ( header, sidebar, footer )
+4). CRUD ( TOKO ONLINE )
+5). Nama Database => web_framework_toko_online
+6). Membuat FrontEnd dan BackEnd
+7). input produk
+8). Fitur keranjang Belanja
+9). Hapus Keranjang & Pembayaran
+10). Invoice penjualan
+11). Detail invoice penjualan
+12). Detail Produk
+13). Kategori Produk
+14). Mengelola stok
+15). Login, Registrasi, Logout ( Form validation & Cara memaksa harus login )
+16). Hapus index.php ( krn ada  .htaccess )
+
+
+Username = admin
+password = 123
+
+Username = user
+password = 123
